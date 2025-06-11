@@ -16,12 +16,6 @@ A classic arcade-style **Asteroids** game built using **Python** and **Pygame**,
 
 ---
 
-## 📸 Screenshots
-
-
-
----
-
 ## 🛠️ Installation
 
 1. **Clone the repository:**
