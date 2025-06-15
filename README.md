@@ -1,6 +1,7 @@
 # 🚀 Asteroids Game
 
-A classic arcade-style **Asteroids** game built using **Python** and **Pygame**, featuring realistic spaceship movement, rotating asteroids, sound effects, and score tracking!
+A modern twist on the classic **Asteroids** arcade game — built with **Python** and **Pygame**!  
+Pilot your spaceship through a starry cosmos, dodge and destroy asteroids, and survive as long as you can.
 
 ---
 
